@@ -1,8 +1,10 @@
 # RailsConf 2019 Stimulus and Webpacker Workshop by Noel Rappin
 
-[snippets](https://gist.github.com/noelrappin/b87ee470f760d2496d2d03a0187a33f3)
-[repo](https://github.com/noelrappin/rails_conf_north_by)
-[notes][Notes.md]
+## Links
+
+- [snippets](https://gist.github.com/noelrappin/b87ee470f760d2496d2d03a0187a33f3)
+- [repo](https://github.com/noelrappin/rails_conf_north_by)
+- [notes](https://github.com/andrewmcodes/rails_conf_simulus_workshop/blob/master/Notes.md)
 
 ## Workshop README
 
